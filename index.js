@@ -64,7 +64,7 @@ const AuthNavigator = StackNavigator({
             headerTitle: 'Sign In',
         },
     },
-    SignUp: {
+    SignUp: 
         screen: SignUp,
         navigationOptions: {
             headerTitle: 'Sign Up',
